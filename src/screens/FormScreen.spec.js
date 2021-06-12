@@ -23,13 +23,9 @@ it('Should create a submission', () => {
 
 // it('Should display an error when trying to create an item without any text', () => {
 //   const {getByText} = render(<Submit />);
-
 //   const addItemButton = getByText('Submit');
-
 //   fireEvent.press(addItemButton);
-
 //   const errorMessage = getByText('Please insert a valid text');
 //   const textInput = getByPlaceholderText('');
-
 //   expect(errorMessage).not.toBeNull();
 // });
