@@ -2,5 +2,9 @@
 
 ### To do:
 
--[] Implement more tests
--[] Explain stuff on README
+- [x] Growable formulary
+- [x] Redux state
+- [x] Tab Navigator
+- [x] Submission List
+- [ ] Implement more tests
+- [ ] Explain stuff on README
